@@ -1,0 +1,14 @@
+D:\PROJECT FOR INTERN\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\PROJECT FOR INTERN\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\PROJECT FOR INTERN\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\PROJECT FOR INTERN\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\PROJECT FOR INTERN\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+D:\PROJECT FOR INTERN\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\PROJECT FOR INTERN\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\PROJECT FOR INTERN\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\PROJECT FOR INTERN\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\PROJECT FOR INTERN\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\PROJECT FOR INTERN\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\PROJECT FOR INTERN\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\PROJECT FOR INTERN\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\PROJECT FOR INTERN\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
